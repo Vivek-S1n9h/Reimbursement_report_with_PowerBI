@@ -4,7 +4,7 @@
 Use Power BI to analyze box office data for a set of movies, create engaging visuals, and extract meaningful insights.
 
 ## Dataset
-- **Dataset File:** Employee_reimbursement_dataset.xlsx
+- **Dataset File:** [Employee_reimbursement_dataset.xlsx](https://github.com/Vivek-S1n9h/Reimbursement_report_with_PowerBI/blob/main/Employee_reimbursement_dataset.xlsx)
 
 ## Task
 
@@ -39,5 +39,6 @@ Use Power BI to analyze box office data for a set of movies, create engaging vis
 
 # PowerBI Report:
 
+![Report](https://github.com/Vivek-S1n9h/Reimbursement_report_with_PowerBI/assets/121023465/3fa4bbc3-1095-4075-89bd-b4d5a34c6b4e)
 
 Feel free to explore and customize further as needed. Happy analyzing!
